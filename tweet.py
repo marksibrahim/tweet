@@ -7,7 +7,7 @@ import random
 opener = ['top 10 ', 
         'Must have ', 
         '10 must have ',
-        'AD editors select 8 ',
+        'editors select 8 ',
         'Our favorite ']
 
 thing = ['dazzling patio furnishings ',
